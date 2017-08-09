@@ -22,4 +22,4 @@ Insulation tape,
 
 Video: https://www.youtube.com/watch?v=H7GgTQ6dh_4&t=40s
 
-The Android App used in video to control the boat can be found here as an apk file: 
+The Android App used in video to control the boat can be found here as an apk file: https://goo.gl/aoSqBR
